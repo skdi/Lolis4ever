@@ -1,0 +1,1256 @@
+﻿Log file open, 03/24/20 15:38:12
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Lolilandia02
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.070064
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: NVIDIA GeForce GTX 1060
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.24-20.38.12:688][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.24-20.38.12:688][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.24-20.38.12:688][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Epic Games/mis proyectos/Lolis4ever/Saved/Config/Windows/Engine.ini]
+[2020.03.24-20.38.12:688][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.24-20.38.12:688][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Epic Games/mis proyectos/Lolis4ever/Saved/Config/Windows/Engine.ini]
+[2020.03.24-20.38.12:688][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Epic Games/mis proyectos/Lolis4ever/Saved/Config/Windows/Engine.ini]
+[2020.03.24-20.38.12:688][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.24-20.38.12:688][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.24-20.38.12:688][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.24-20.38.12:688][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.24-20.38.12:688][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.24-20.38.12:688][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.24-20.38.12:688][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.24-20.38.12:688][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.24-20.38.12:688][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.24-20.38.12:688][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.24-20.38.12:688][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.24-20.38.12:688][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.24-20.38.12:689][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.24-20.38.12:689][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.03.24-20.38.12:689][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Epic Games/mis proyectos/Lolis4ever/Saved/Config/Windows/Engine.ini]
+[2020.03.24-20.38.12:689][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.24-20.38.12:689][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.24-20.38.12:689][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.24-20.38.12:689][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.24-20.38.12:689][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.24-20.38.12:689][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.24-20.38.12:689][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.03.24-20.38.12:689][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.24-20.38.12:689][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.24-20.38.12:689][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.24-20.38.12:689][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.24-20.38.12:689][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.24-20.38.12:689][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.24-20.38.12:689][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Epic Games/mis proyectos/Lolis4ever/Saved/Config/Windows/Engine.ini]
+[2020.03.24-20.38.12:689][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Epic Games/mis proyectos/Lolis4ever/Saved/Config/Windows/Engine.ini]
+[2020.03.24-20.38.12:703][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Epic Games/mis proyectos/Lolis4ever/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-20.38.12:703][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.24-20.38.12:703][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.24-20.38.12:703][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Epic Games/mis proyectos/Lolis4ever/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-20.38.12:703][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.24-20.38.12:703][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Epic Games/mis proyectos/Lolis4ever/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-20.38.12:703][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.24-20.38.12:703][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.24-20.38.12:703][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.24-20.38.12:703][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.24-20.38.12:703][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.24-20.38.12:703][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.24-20.38.12:703][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.24-20.38.12:703][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.24-20.38.12:703][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Epic Games/mis proyectos/Lolis4ever/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Epic Games/mis proyectos/Lolis4ever/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Epic Games/mis proyectos/Lolis4ever/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.24-20.38.12:704][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.24-20.38.12:705][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.24-20.38.12:705][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Epic Games/mis proyectos/Lolis4ever/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-20.38.12:705][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.24-20.38.12:705][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.24-20.38.12:705][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Epic Games/mis proyectos/Lolis4ever/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-20.38.12:705][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.24-20.38.12:705][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.24-20.38.12:705][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.24-20.38.12:705][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.24-20.38.12:705][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.24-20.38.12:707][  0]LogHAL: Display: Platform has ~ 16 GB [17014509568 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.24-20.38.12:707][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.24-20.38.12:707][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [D:/Epic Games/mis proyectos/Lolis4ever/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [D:/Epic Games/mis proyectos/Lolis4ever/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [D:/Epic Games/mis proyectos/Lolis4ever/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [D:/Epic Games/mis proyectos/Lolis4ever/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [D:/Epic Games/mis proyectos/Lolis4ever/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2020.03.24-20.38.12:707][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [D:/Epic Games/mis proyectos/Lolis4ever/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[r.SSGI.Quality:2]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [D:/Epic Games/mis proyectos/Lolis4ever/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [D:/Epic Games/mis proyectos/Lolis4ever/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.24-20.38.12:708][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Epic Games/mis proyectos/Lolis4ever/Saved/Config/Windows/Engine.ini]
+[2020.03.24-20.38.12:708][  0]LogInit: Computer: SKDIY-PREDATOR
+[2020.03.24-20.38.12:708][  0]LogInit: User: SKDI
+[2020.03.24-20.38.12:708][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.03.24-20.38.12:708][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.24-20.38.12:708][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.03.24-20.38.12:708][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.24-20.38.12:708][  0]LogMemory: Process Physical Memory: 106.59 MB used, 106.59 MB peak
+[2020.03.24-20.38.12:708][  0]LogMemory: Process Virtual Memory: 101.48 MB used, 101.48 MB peak
+[2020.03.24-20.38.12:708][  0]LogMemory: Physical Memory: 6140.15 MB used,  10086.15 MB free, 16226.30 MB total
+[2020.03.24-20.38.12:709][  0]LogMemory: Virtual Memory: 5124.86 MB used,  134212600.00 MB free, 134217728.00 MB total
+[2020.03.24-20.38.12:711][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.03.24-20.38.12:728][  0]LogInit: Using OS detected language (es-ES).
+[2020.03.24-20.38.12:728][  0]LogInit: Using OS detected locale (es-PE).
+[2020.03.24-20.38.12:729][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2020.03.24-20.38.12:759][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.24-20.38.12:807][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.24-20.38.12:807][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.24-20.38.12:939][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.24-20.38.12:939][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.03.24-20.38.12:939][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.03.24-20.38.12:939][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.24-20.38.12:991][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2020.03.24-20.38.12:991][  0]LogD3D11RHI:       6061/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.24-20.38.13:005][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.03.24-20.38.13:005][  0]LogD3D11RHI:       128/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.03.24-20.38.13:007][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.24-20.38.13:007][  0]LogD3D11RHI:       0/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.24-20.38.13:007][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.24-20.38.13:013][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.24-20.38.13:013][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.24-20.38.13:013][  0]LogWindows: EnumDisplayDevices:
+[2020.03.24-20.38.13:014][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.03.24-20.38.13:014][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.03.24-20.38.13:014][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.03.24-20.38.13:015][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2020.03.24-20.38.13:015][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.03.24-20.38.13:015][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2020.03.24-20.38.13:015][  0]LogD3D11RHI:   Driver Version: 388.73 (internal:23.21.13.8873, unified:388.73)
+[2020.03.24-20.38.13:015][  0]LogD3D11RHI:      Driver Date: 12-18-2017
+[2020.03.24-20.38.13:015][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2020.03.24-20.38.13:048][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.03.24-20.38.13:048][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.24-20.38.13:058][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.24-20.38.13:107][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061083).
+[2020.03.24-20.38.13:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.03.24-20.38.13:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.03.24-20.38.13:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.03.24-20.38.13:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.03.24-20.38.13:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.03.24-20.38.13:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.03.24-20.38.13:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.03.24-20.38.13:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.03.24-20.38.13:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.03.24-20.38.13:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.03.24-20.38.13:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.24-20.38.13:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.03.24-20.38.13:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.03.24-20.38.13:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.24-20.38.13:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.24-20.38.13:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.24-20.38.13:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.24-20.38.13:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.03.24-20.38.13:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.03.24-20.38.13:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.03.24-20.38.13:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.03.24-20.38.13:434][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.24-20.38.13:440][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.03.24-20.38.13:445][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.03.24-20.38.13:451][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.03.24-20.38.13:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.03.24-20.38.13:463][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.03.24-20.38.13:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.03.24-20.38.13:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.03.24-20.38.13:493][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.03.24-20.38.13:493][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.03.24-20.38.13:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.24-20.38.13:506][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.03.24-20.38.13:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.03.24-20.38.13:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.03.24-20.38.13:517][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.24-20.38.13:520][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.24-20.38.13:536][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (../../../../mis proyectos/Lolis4ever/Intermediate/Shaders/WorkingDirectory/2292/).
+[2020.03.24-20.38.13:536][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/SKDI/AppData/Local/Temp/UnrealShaderWorkingDir/BFFF5EDC47CD0685D0FCEAB36E6CD926/'.
+[2020.03.24-20.38.13:536][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.24-20.38.13:536][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.24-20.38.13:536][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.24-20.38.14:155][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.24-20.38.14:201][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/SKDI/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.24-20.38.14:201][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/SKDI/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.03.24-20.38.14:201][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../mis proyectos/Lolis4ever/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.24-20.38.14:201][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.24-20.38.14:201][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../mis proyectos/Lolis4ever/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.24-20.38.14:201][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.24-20.38.14:210][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.24-20.38.14:210][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.24-20.38.14:210][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.24-20.38.14:211][  0]LogDerivedDataCache: Using Local data cache path C:/Users/SKDI/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.24-20.38.14:211][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.24-20.38.14:211][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.24-20.38.14:234][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.24-20.38.14:236][  0]LogSlate: Using FreeType 2.10.0
+[2020.03.24-20.38.14:237][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.24-20.38.14:284][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2020.03.24-20.38.14:526][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.24-20.38.14:656][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.24-20.38.14:656][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.24-20.38.14:656][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.24-20.38.14:656][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.24-20.38.14:656][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.24-20.38.14:680][  0]LogNetVersion: Lolilandia02 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3460009224)
+[2020.03.24-20.38.15:553][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.023057 seconds
+[2020.03.24-20.38.15:559][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.03.24-20.38.15:559][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.03.24-20.38.15:559][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.24-20.38.15:871][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.24-20.38.15:873][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.24-20.38.15:911][  0]SourceControl: El control de código fuente está desactivado
+[2020.03.24-20.38.16:341][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.24-20.38.16:341][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.24-20.38.16:395][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.24-20.38.16:403][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.24-20.38.16:403][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.24-20.38.16:470][  0]LogOcInput: OculusInput pre-init called
+[2020.03.24-20.38.16:476][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.03.24-20.38.16:476][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.03.24-20.38.16:531][  0]LogEngine: Initializing Engine...
+[2020.03.24-20.38.16:532][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.24-20.38.16:532][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.24-20.38.16:811][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.24-20.38.16:817][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.24-20.38.16:821][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.24-20.38.16:821][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.24-20.38.16:821][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.24-20.38.16:821][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.24-20.38.16:821][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.24-20.38.16:821][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.24-20.38.16:821][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.24-20.38.16:821][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.24-20.38.16:821][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.24-20.38.16:821][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.24-20.38.16:842][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.24-20.38.16:842][  0]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.03.24-20.38.16:842][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.03.24-20.38.16:842][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.24-20.38.16:842][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.24-20.38.16:842][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.24-20.38.16:842][  0]LogAudioMixer: Display: Channel Order:
+[2020.03.24-20.38.16:842][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.24-20.38.16:842][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.03.24-20.38.16:860][  0]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.03.24-20.38.16:863][  0]LogInit: FAudioDevice initialized.
+[2020.03.24-20.38.16:864][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.24-20.38.16:936][  0]LogDerivedDataCache: Saved boot cache 0.07s 78MB C:/Users/SKDI/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.24-20.38.16:936][  0]LogInit: Texture streaming: Enabled
+[2020.03.24-20.38.16:946][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.24-20.38.16:946][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.03.24-20.38.16:955][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.03.24-20.38.16:985][  0]LogInit: Transaction tracking system initialized
+[2020.03.24-20.38.16:993][  0]BlueprintLog: New page: Cargar el editor
+[2020.03.24-20.38.17:015][  0]LocalizationService: Localization service is disabled
+[2020.03.24-20.38.17:794][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.24-20.38.17:795][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.24-20.38.17:964][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.24-20.38.17:964][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.24-20.38.18:025][  0]LogFileCache: Scanning file cache for directory 'D:/Epic Games/mis proyectos/Lolis4ever/Content/' took 0.02s
+[2020.03.24-20.38.18:587][  0]Cmd: MAP LOAD FILE="../../../../mis proyectos/Lolis4ever/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.24-20.38.18:587][  0]LightingResults: New page: Diseñar la iluminación
+[2020.03.24-20.38.18:588][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-20.38.18:588][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.24-20.38.18:588][  0]MapCheck: New page: Revisión del mapa
+[2020.03.24-20.38.18:588][  0]LightingResults: New page: Diseñar la iluminación
+[2020.03.24-20.38.18:617][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.03.24-20.38.20:035][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.24-20.38.20:304][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.24-20.38.20:359][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.03.24-20.38.20:359][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.24-20.38.20:360][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.125ms to complete.
+[2020.03.24-20.38.20:360][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.772
+[2020.03.24-20.38.20:524][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.24-20.38.20:530][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.24-20.38.20:536][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.24-20.38.20:542][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.24-20.38.20:565][  0]LogCollectionManager: Loaded 0 collections in 0.001636 seconds
+[2020.03.24-20.38.20:575][  0]LogFileCache: Scanning file cache for directory 'D:/Epic Games/mis proyectos/Lolis4ever/Saved/Collections/' took 0.00s
+[2020.03.24-20.38.20:575][  0]LogFileCache: Scanning file cache for directory 'D:/Epic Games/mis proyectos/Lolis4ever/Content/Developers/SKDI/Collections/' took 0.00s
+[2020.03.24-20.38.20:575][  0]LogFileCache: Scanning file cache for directory 'D:/Epic Games/mis proyectos/Lolis4ever/Content/Collections/' took 0.00s
+[2020.03.24-20.38.20:575][  0]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 3015 classes and 717 folders.
+[2020.03.24-20.38.20:577][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.24-20.38.20:639][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.24-20.38.20:642][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.03.24-20.38.20:683][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.24-20.38.20:684][  0]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.24-20.38.20:687][  0]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.24-20.38.20:766][  0]LogRenderer: Reallocating scene render targets to support 772x604 Format 9 NumSamples 1 (Frame:1).
+[2020.03.24-20.38.20:983][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.24-20.38.20:983][  0]LogLoad: (Engine Initialization) Total time: 9.75 seconds
+[2020.03.24-20.38.20:983][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.24-20.38.21:046][  0]LogAssetRegistry: Asset discovery search completed in 6.7628 seconds
+[2020.03.24-20.38.21:049][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2020.03.24-20.38.21:217][  0]LogContentStreaming: Texture pool size now 800 MB
+[2020.03.24-20.38.21:253][  0]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.24-20.38.24:328][ 75]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.24-20.39.29:563][342]AssetReimport: New page: Outstanding source content changes 10:39:29
+[2020.03.24-20.39.29:671][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.03.24-20.39.34:528][342]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.24-20.39.35:249][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.03.24-20.39.35:275][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.03.24-20.39.35:300][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.03.24-20.39.35:326][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.03.24-20.39.35:351][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.03.24-20.39.35:431][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.03.24-20.39.35:457][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.03.24-20.39.35:641][342]SourceControl: rm 'Content/MiContenido/ProceduralFolliage/bark03.uasset'
+[2020.03.24-20.39.35:641][342]SourceControl: rm 'Content/MiContenido/ProceduralFolliage/leafG2.uasset'
+[2020.03.24-20.39.35:641][342]SourceControl: rm 'Content/MiContenido/ProceduralFolliage/leafg2A.uasset'
+[2020.03.24-20.39.35:641][342]SourceControl: rm 'Content/MiContenido/ProceduralFolliage/lf2A1.uasset'
+[2020.03.24-20.39.35:641][342]SourceControl: rm 'Content/MiContenido/ProceduralFolliage/lf2D1.uasset'
+[2020.03.24-20.39.38:721][503]AssetReimport: Attempting to delete leafG2 (its source file has been removed).
+[2020.03.24-20.39.38:721][503]AssetReimport: Attempting to delete bark03 (its source file has been removed).
+[2020.03.24-20.39.38:721][503]AssetReimport: Attempting to delete lf2D1 (its source file has been removed).
+[2020.03.24-20.39.38:721][503]AssetReimport: Attempting to delete lf2A1 (its source file has been removed).
+[2020.03.24-20.39.38:721][503]AssetReimport: Attempting to delete leafg2A (its source file has been removed).
+[2020.03.24-20.39.52:620][231]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.39.52:642][231]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.39.52:642][231]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.39.52:642][231]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.39.52:642][231]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.39.52:642][231]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.39.52:643][231]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.39.52:643][231]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.39.52:643][231]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.39.52:643][231]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.39.52:643][231]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.39.52:643][231]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.39.52:643][231]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.39.52:644][231]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.39.52:644][231]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat.Brachychiton_1_Branches_Mat Referenciado por Brachychiton_2
+[2020.03.24-20.39.52:644][231]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.39.52:644][231]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.39.52:644][231]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.39.52:644][231]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.39.52:644][231]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.ficus_1_Fronds_Mat_Inst Referenciado por Brachychiton_2
+[2020.03.24-20.39.52:645][231]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.39.52:645][231]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.39.52:645][231]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/M_Leaf_1.M_Leaf_1 Referenciado por Brachychiton_2
+[2020.03.24-20.39.52:645][231]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.39.52:650][231]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.39.52:650][231]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.39.52:650][231]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.39.52:651][231]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.39.52:651][231]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.39.52:651][231]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.39.52:651][231]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.39.52:651][231]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.39.53:901][231]LogStaticMesh: Generando la malla estática Brachychiton_2...
+[2020.03.24-20.39.55:869][231]LogStaticMesh: Built static mesh [1.95s] /Game/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.Brachychiton_2
+[2020.03.24-20.39.56:366][231]LogActorFactory: Actor Factory created Brachychiton_2
+[2020.03.24-20.39.59:125][384]LogActorFactory: Actor Factory created Brachychiton_2
+[2020.03.24-20.40.00:393][456]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2020.03.24-20.40.11:356][ 75]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brachychiton_2)
+[2020.03.24-20.40.18:900][460]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.40.18:900][460]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.40.18:900][460]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.40.18:900][460]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.40.18:900][460]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.40.18:900][460]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.40.18:901][460]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.40.18:901][460]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.40.18:901][460]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.40.18:901][460]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.40.18:901][460]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.40.18:901][460]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.40.18:901][460]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.40.18:901][460]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.40.18:901][460]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat.Brachychiton_1_Branches_Mat Referenciado por Brachychiton_1
+[2020.03.24-20.40.18:902][460]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.40.18:902][460]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.40.18:902][460]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.40.18:902][460]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.40.18:902][460]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.ficus_1_Fronds_Mat_Inst Referenciado por Brachychiton_1
+[2020.03.24-20.40.18:902][460]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.40.18:902][460]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.40.18:902][460]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/M_Leaf_1.M_Leaf_1 Referenciado por Brachychiton_1
+[2020.03.24-20.40.18:902][460]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.40.18:902][460]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.40.18:902][460]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.40.18:903][460]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.40.18:903][460]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.40.18:903][460]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.40.18:903][460]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.40.18:903][460]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.40.18:903][460]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.40.19:826][460]LogStaticMesh: Generando la malla estática Brachychiton_1...
+[2020.03.24-20.40.21:576][460]LogStaticMesh: Built static mesh [1.75s] /Game/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.Brachychiton_1
+[2020.03.24-20.40.22:021][460]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.Brachychiton_1
+[2020.03.24-20.40.25:408][618]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.24-20.40.32:554][ 13]LogSlate: Window 'Brachychiton_1' being destroyed
+[2020.03.24-20.40.32:621][ 13]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-20.40.32:621][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.24-20.40.34:168][100]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2020.03.24-20.40.40:156][425]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1.Brachychiton_1
+[2020.03.24-20.40.56:103][285]LogSlate: Window 'Brachychiton_1' being destroyed
+[2020.03.24-20.40.56:161][285]LogSlate: Window 'Brachychiton_1' being destroyed
+[2020.03.24-20.40.56:170][285]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-20.40.56:170][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.24-20.41.02:921][652]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.Brachychiton_2
+[2020.03.24-20.41.29:903][ 60]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2_Branches_Mat.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.41.29:903][ 60]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2_Branches_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/TexturesCom_BarkDecidious0155_1_seamless_S_Tex': Can't find file.
+[2020.03.24-20.41.29:903][ 60]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2_Branches_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/TexturesCom_BarkDecidious0155_1_seamless_S_Tex': Can't find file.
+[2020.03.24-20.41.29:903][ 60]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2_Branches_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/TexturesCom_BarkDecidious0155_1_seamless_S_Tex': Can't find file.
+[2020.03.24-20.41.29:903][ 60]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2_Branches_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/TexturesCom_BarkDecidious0155_1_seamless_S_Tex': Can't find file.
+[2020.03.24-20.41.29:903][ 60]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2_Branches_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/TexturesCom_BarkDecidious0155_1_seamless_S_Tex': Can't find file.
+[2020.03.24-20.41.29:904][ 60]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/TexturesCom_BarkDecidious0155_1_seamless_S_Tex.TexturesCom_BarkDecidious0155_1_seamless_S_Tex Referenciado por MaterialExpressionTextureSample_0
+[2020.03.24-20.41.29:904][ 60]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2_Branches_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/TexturesCom_BarkDecidious0155_1_seamless_S_Tex': Can't find file.
+[2020.03.24-20.41.29:907][ 60]LogMaterial: Display: Missing cached shader map for material Brachychiton_2_Branches_Mat, compiling. 
+[2020.03.24-20.41.29:908][ 60]LogMaterial: Warning: D:\Epic Games\mis proyectos\Lolis4ever\Content\Threedtag_Trees\Content\Foliage\Brachychiton\Brachychiton_2_Branches_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.24-20.41.29:908][ 60]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.24-20.41.31:359][ 60]LogStaticMesh: Generando la malla estática Brachychiton_2...
+[2020.03.24-20.41.33:117][ 60]LogStaticMesh: Built static mesh [1.76s] /Game/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.Brachychiton_2
+[2020.03.24-20.42.03:415][601]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.42.03:458][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf': Can't find file.
+[2020.03.24-20.42.03:458][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf': Can't find file.
+[2020.03.24-20.42.03:458][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf-mask': Can't find file.
+[2020.03.24-20.42.03:458][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf-mask': Can't find file.
+[2020.03.24-20.42.03:458][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_DISP': Can't find file.
+[2020.03.24-20.42.03:458][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_DISP': Can't find file.
+[2020.03.24-20.42.03:458][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_NRM': Can't find file.
+[2020.03.24-20.42.03:458][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_NRM': Can't find file.
+[2020.03.24-20.42.03:458][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_SPEC': Can't find file.
+[2020.03.24-20.42.03:459][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_SPEC': Can't find file.
+[2020.03.24-20.42.03:459][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/flatnormals': Can't find file.
+[2020.03.24-20.42.03:459][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/flatnormals': Can't find file.
+[2020.03.24-20.42.03:459][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf-mask': Can't find file.
+[2020.03.24-20.42.03:459][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf-mask': Can't find file.
+[2020.03.24-20.42.03:459][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf': Can't find file.
+[2020.03.24-20.42.03:459][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf': Can't find file.
+[2020.03.24-20.42.03:459][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_DISP': Can't find file.
+[2020.03.24-20.42.03:459][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_DISP': Can't find file.
+[2020.03.24-20.42.03:459][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_NRM': Can't find file.
+[2020.03.24-20.42.03:459][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_NRM': Can't find file.
+[2020.03.24-20.42.03:459][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_SPEC': Can't find file.
+[2020.03.24-20.42.03:460][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_SPEC': Can't find file.
+[2020.03.24-20.42.03:460][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/flatnormals': Can't find file.
+[2020.03.24-20.42.03:460][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/flatnormals': Can't find file.
+[2020.03.24-20.42.03:461][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf': Can't find file.
+[2020.03.24-20.42.03:461][601]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf.Brachychiton_acerifolius_leaf Referenciado por MaterialExpressionTextureSampleParameter2D_0
+[2020.03.24-20.42.03:461][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf': Can't find file.
+[2020.03.24-20.42.03:462][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_NRM': Can't find file.
+[2020.03.24-20.42.03:462][601]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_NRM.Brachychiton_acerifolius_leaf_NRM Referenciado por MaterialExpressionTextureSampleParameter2D_1
+[2020.03.24-20.42.03:462][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_NRM': Can't find file.
+[2020.03.24-20.42.03:462][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf-mask': Can't find file.
+[2020.03.24-20.42.03:462][601]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf-mask.Brachychiton_acerifolius_leaf-mask Referenciado por MaterialExpressionTextureSampleParameter2D_2
+[2020.03.24-20.42.03:462][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf-mask': Can't find file.
+[2020.03.24-20.42.03:462][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_SPEC': Can't find file.
+[2020.03.24-20.42.03:462][601]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_SPEC.Brachychiton_acerifolius_leaf_SPEC Referenciado por MaterialExpressionTextureSampleParameter2D_4
+[2020.03.24-20.42.03:462][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_SPEC': Can't find file.
+[2020.03.24-20.42.03:462][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_DISP': Can't find file.
+[2020.03.24-20.42.03:462][601]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_DISP.Brachychiton_acerifolius_leaf_DISP Referenciado por MaterialExpressionTextureSampleParameter2D_5
+[2020.03.24-20.42.03:462][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_DISP': Can't find file.
+[2020.03.24-20.42.03:463][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/flatnormals': Can't find file.
+[2020.03.24-20.42.03:463][601]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/flatnormals.flatnormals Referenciado por MaterialExpressionTextureSampleParameter2D_6
+[2020.03.24-20.42.03:463][601]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/flatnormals': Can't find file.
+[2020.03.24-20.42.03:467][601]LogMaterial: Display: Missing cached shader map for material ficus_1_Fronds_Mat, compiling. 
+[2020.03.24-20.42.03:468][601]LogMaterial: Warning: D:\Epic Games\mis proyectos\Lolis4ever\Content\Threedtag_Trees\Content\Foliage\Brachychiton\ficus_1_Fronds_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.24-20.42.03:468][601]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.03.24-20.42.03:541][601]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat.ficus_1_Fronds_Mat
+[2020.03.24-20.42.03:546][601]LogMaterial: Display: Missing cached shader map for material ficus_1_Fronds_Mat, compiling. 
+[2020.03.24-20.42.03:547][601]LogMaterial: Warning: /Engine/Transient.ficus_1_Fronds_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.24-20.42.03:547][601]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.03.24-20.42.03:690][601]LogMaterial: Display: Missing cached shader map for material ficus_1_Fronds_Mat, compiling. 
+[2020.03.24-20.42.03:691][601]LogMaterial: Warning: /Engine/Transient.ficus_1_Fronds_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.24-20.42.03:691][601]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.03.24-20.42.03:696][601]LogMaterial: Display: Missing cached shader map for material ficus_1_Fronds_Mat, compiling. 
+[2020.03.24-20.42.03:698][601]LogMaterial: Warning: /Engine/Transient.ficus_1_Fronds_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.24-20.42.03:698][601]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.03.24-20.42.03:709][601]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2020.03.24-20.42.03:713][601]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.03.24-20.42.03:716][601]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.03.24-20.42.03:720][601]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2020.03.24-20.42.03:738][601]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.03.24-20.42.03:747][601]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2020.03.24-20.42.03:748][601]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.03.24-20.42.03:748][601]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2020.03.24-20.42.03:748][601]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.03.24-20.42.03:748][601]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2020.03.24-20.42.03:748][601]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2020.03.24-20.42.03:748][601]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.03.24-20.42.03:748][601]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.03.24-20.42.03:748][601]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2020.03.24-20.42.03:751][601]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
+[2020.03.24-20.42.03:755][601]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_6, compiling. 
+[2020.03.24-20.42.03:759][601]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2020.03.24-20.42.03:769][601]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.03.24-20.42.03:780][601]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2020.03.24-20.42.03:898][601]MaterialEditorStats: Error: [SM5] (Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.03.24-20.42.03:913][601]LogSlate: Took 0.000294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.24-20.42.04:351][609]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2020.03.24-20.42.04:351][609]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2020.03.24-20.42.04:355][609]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2020.03.24-20.42.04:412][611]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2020.03.24-20.42.04:501][614]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2020.03.24-20.42.04:501][614]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.03.24-20.42.04:505][614]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2020.03.24-20.42.04:547][615]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.03.24-20.42.04:823][623]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2020.03.24-20.42.04:882][626]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2020.03.24-20.42.04:951][629]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.03.24-20.42.04:951][629]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.03.24-20.42.08:122][801]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-20.42.08:122][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.24-20.42.40:757][469]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Branches_Mat.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.42.40:757][469]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Branches_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/TexturesCom_BarkDecidious0155_1_seamless_S_NRM_Tex': Can't find file.
+[2020.03.24-20.42.40:757][469]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Branches_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/TexturesCom_BarkDecidious0155_1_seamless_S_NRM_Tex': Can't find file.
+[2020.03.24-20.42.40:757][469]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Branches_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/TexturesCom_BarkDecidious0155_1_seamless_S_Tex': Can't find file.
+[2020.03.24-20.42.40:757][469]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Branches_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/TexturesCom_BarkDecidious0155_1_seamless_S_Tex': Can't find file.
+[2020.03.24-20.42.40:757][469]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Branches_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/TexturesCom_BarkDecidious0155_1_seamless_S_NRM_Tex': Can't find file.
+[2020.03.24-20.42.40:757][469]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Branches_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/TexturesCom_BarkDecidious0155_1_seamless_S_NRM_Tex': Can't find file.
+[2020.03.24-20.42.40:757][469]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Branches_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/TexturesCom_BarkDecidious0155_1_seamless_S_Tex': Can't find file.
+[2020.03.24-20.42.40:757][469]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Branches_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/TexturesCom_BarkDecidious0155_1_seamless_S_Tex': Can't find file.
+[2020.03.24-20.42.40:758][469]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Branches_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/TexturesCom_BarkDecidious0155_1_seamless_S_Tex': Can't find file.
+[2020.03.24-20.42.40:758][469]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Branches_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/TexturesCom_BarkDecidious0155_1_seamless_S_Tex': Can't find file.
+[2020.03.24-20.42.40:758][469]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Branches_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/TexturesCom_BarkDecidious0155_1_seamless_S_NRM_Tex': Can't find file.
+[2020.03.24-20.42.40:758][469]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/TexturesCom_BarkDecidious0155_1_seamless_S_NRM_Tex.TexturesCom_BarkDecidious0155_1_seamless_S_NRM_Tex Referenciado por MaterialExpressionTextureSample_1
+[2020.03.24-20.42.40:758][469]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Branches_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/TexturesCom_BarkDecidious0155_1_seamless_S_NRM_Tex': Can't find file.
+[2020.03.24-20.42.40:762][469]LogMaterial: Display: Missing cached shader map for material Brachychiton_1_Branches_Mat, compiling. 
+[2020.03.24-20.42.40:762][469]LogMaterial: Warning: D:\Epic Games\mis proyectos\Lolis4ever\Content\Threedtag_Trees\Content\Foliage\Brachychiton\Brachychiton_1_Branches_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.24-20.42.40:762][469]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.24-20.44.07:026][837]LogSavePackage: Moving '../../../../mis proyectos/Lolis4ever/Saved/Brachychiton_21A8DA9974EFCA8625498CAB01AB2361A.tmp' to '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.uasset'
+[2020.03.24-20.44.07:088][837]AssetCheck: New page: Asset Save: Brachychiton_2
+[2020.03.24-20.44.07:088][837]LogContentValidation: Display: Validating StaticMesh /Game/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_2.Brachychiton_2
+[2020.03.24-20.44.39:770][721]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brachychiton_2)
+[2020.03.24-20.44.40:769][778]Cmd: DELETE
+[2020.03.24-20.44.40:769][778]Cmd: ACTOR DELETE
+[2020.03.24-20.44.40:822][778]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.24-20.44.40:853][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.03.24-20.44.40:856][778]LogEditorActor: Deleted 1 Actors (0.087 secs)
+[2020.03.24-20.44.41:554][811]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.44.41:554][811]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.44.41:554][811]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.44.41:555][811]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.44.41:555][811]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.44.41:555][811]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.44.41:555][811]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.44.41:555][811]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.44.41:555][811]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.44.41:555][811]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.44.41:555][811]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.44.41:555][811]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.44.41:555][811]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.44.41:556][811]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.44.41:556][811]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat.Brachychiton_1_Branches_Mat Referenciado por Brachychiton_4
+[2020.03.24-20.44.41:556][811]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.44.41:556][811]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.44.41:556][811]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.44.41:556][811]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.44.41:556][811]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/M_Leaf_1.M_Leaf_1 Referenciado por Brachychiton_4
+[2020.03.24-20.44.41:556][811]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.44.41:556][811]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.44.41:557][811]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.ficus_1_Fronds_Mat_Inst Referenciado por Brachychiton_4
+[2020.03.24-20.44.41:557][811]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.44.41:557][811]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.44.41:557][811]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.44.41:557][811]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.44.41:557][811]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.44.41:557][811]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.44.41:557][811]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.44.41:557][811]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.44.41:557][811]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.44.43:067][811]LogStaticMesh: Generando la malla estática Brachychiton_4...
+[2020.03.24-20.44.47:322][811]LogStaticMesh: Built static mesh [4.26s] /Game/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.Brachychiton_4
+[2020.03.24-20.44.47:852][811]LogActorFactory: Actor Factory created Brachychiton_4
+[2020.03.24-20.44.48:853][870]LogActorFactory: Actor Factory created Brachychiton_4
+[2020.03.24-20.44.52:985][ 92]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.Brachychiton_4
+[2020.03.24-20.46.07:408][394]LogSlate: Window 'Mensaje' being destroyed
+[2020.03.24-20.46.38:472][911]LogStaticMesh: Generando la malla estática Brachychiton_4...
+[2020.03.24-20.46.42:623][911]LogStaticMesh: Built static mesh [4.15s] /Game/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_4.Brachychiton_4
+[2020.03.24-20.46.48:107][201]LogSlate: Window 'Brachychiton_4' being destroyed
+[2020.03.24-20.46.48:160][201]LogSlate: Window 'Brachychiton_4' being destroyed
+[2020.03.24-20.46.48:171][201]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-20.46.48:171][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.24-20.46.48:222][201]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-20.46.48:223][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.24-20.46.59:533][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brachychiton_4)
+[2020.03.24-20.46.59:968][456]Cmd: DELETE
+[2020.03.24-20.46.59:968][456]Cmd: ACTOR DELETE
+[2020.03.24-20.47.00:020][456]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.24-20.47.00:050][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.03.24-20.47.00:055][456]LogEditorActor: Deleted 1 Actors (0.087 secs)
+[2020.03.24-20.47.32:360][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.03.24-20.47.34:654][319]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.24-20.47.35:319][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.03.24-20.47.35:372][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.03.24-20.47.35:397][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.03.24-20.47.35:423][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.03.24-20.47.35:452][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.03.24-20.47.35:536][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.03.24-20.47.35:561][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.03.24-20.49.20:523][418]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2020.03.24-20.49.46:571][140]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.24-20.49.57:605][171]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.03.24-20.50.02:552][171]LogSavePackage: Moving '../../../../mis proyectos/Lolis4ever/Saved/ThirdPersonExampleMap_Auto1FECC956D48A78A65725ECFB684A5CF9B.tmp' to '../../../../mis proyectos/Lolis4ever/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.03.24-20.50.02:579][171]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 5.012
+[2020.03.24-20.50.02:579][171]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.012
+[2020.03.24-20.52.16:524][197]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_5.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.52.16:525][197]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_5.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.52.16:525][197]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_5.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.52.16:525][197]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_5.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.52.16:525][197]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_5.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.52.16:525][197]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_5.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.52.16:525][197]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_5.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.52.16:525][197]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_5.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.52.16:525][197]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_5.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.52.16:526][197]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_5.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.52.16:526][197]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat.Brachychiton_1_Branches_Mat Referenciado por Brachychiton_5
+[2020.03.24-20.52.16:526][197]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_5.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.52.16:526][197]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_5.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.52.16:526][197]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_5.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.52.16:526][197]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_5.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.52.16:526][197]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/M_Leaf_1.M_Leaf_1 Referenciado por Brachychiton_5
+[2020.03.24-20.52.16:526][197]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_5.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.52.16:526][197]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_5.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.52.16:527][197]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_5.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.52.16:527][197]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_5.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.52.16:527][197]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_5.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.52.16:527][197]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_5.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.52.16:527][197]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_5.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.52.16:674][198]LogActorFactory: Actor Factory created Brachychiton_5
+[2020.03.24-20.52.17:293][234]LogActorFactory: Actor Factory created Brachychiton_5
+[2020.03.24-20.52.24:231][632]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_5.Brachychiton_5
+[2020.03.24-20.53.57:160][211]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.53.57:160][211]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_1.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat': Can't find file.
+[2020.03.24-20.53.57:160][211]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_1.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat': Can't find file.
+[2020.03.24-20.53.57:160][211]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_1.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat': Can't find file.
+[2020.03.24-20.53.57:160][211]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_1.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat': Can't find file.
+[2020.03.24-20.53.57:160][211]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_1.uasset' failed to load '/Game/Foliage/Brachychiton/leaf': Can't find file.
+[2020.03.24-20.53.57:161][211]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_1.uasset' failed to load '/Game/Foliage/Brachychiton/leaf': Can't find file.
+[2020.03.24-20.53.57:161][211]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_1.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_mask': Can't find file.
+[2020.03.24-20.53.57:161][211]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_1.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_mask': Can't find file.
+[2020.03.24-20.53.57:161][211]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_1.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_Normal': Can't find file.
+[2020.03.24-20.53.57:161][211]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_1.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_Normal': Can't find file.
+[2020.03.24-20.53.57:161][211]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_1.uasset' failed to load '/Game/Foliage/Brachychiton/leaf': Can't find file.
+[2020.03.24-20.53.57:161][211]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_1.uasset' failed to load '/Game/Foliage/Brachychiton/leaf': Can't find file.
+[2020.03.24-20.53.57:161][211]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_1.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_mask': Can't find file.
+[2020.03.24-20.53.57:161][211]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_1.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_mask': Can't find file.
+[2020.03.24-20.53.57:161][211]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_1.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_Normal': Can't find file.
+[2020.03.24-20.53.57:161][211]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_1.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_Normal': Can't find file.
+[2020.03.24-20.53.57:162][211]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_1.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat': Can't find file.
+[2020.03.24-20.53.57:162][211]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.Brachychiton_1_Fronds_Mat Referenciado por M_Leaf_1
+[2020.03.24-20.53.57:162][211]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_1.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat': Can't find file.
+[2020.03.24-20.53.57:162][211]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_1.uasset' failed to load '/Game/Foliage/Brachychiton/leaf': Can't find file.
+[2020.03.24-20.53.57:162][211]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/leaf.leaf Referenciado por M_Leaf_1
+[2020.03.24-20.53.57:162][211]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_1.uasset' failed to load '/Game/Foliage/Brachychiton/leaf': Can't find file.
+[2020.03.24-20.53.57:162][211]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_1.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_mask': Can't find file.
+[2020.03.24-20.53.57:162][211]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/leaf_mask.leaf_mask Referenciado por M_Leaf_1
+[2020.03.24-20.53.57:162][211]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_1.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_mask': Can't find file.
+[2020.03.24-20.53.57:162][211]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_1.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_Normal': Can't find file.
+[2020.03.24-20.53.57:162][211]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/leaf_Normal.leaf_Normal Referenciado por M_Leaf_1
+[2020.03.24-20.53.57:162][211]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_1.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_Normal': Can't find file.
+[2020.03.24-20.53.58:987][211]LogStaticMesh: Generando la malla estática Brachychiton_5...
+[2020.03.24-20.54.02:032][211]LogStaticMesh: Built static mesh [3.05s] /Game/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_5.Brachychiton_5
+[2020.03.24-20.54.38:227][ 18]LogSavePackage: Moving '../../../../mis proyectos/Lolis4ever/Saved/Brachychiton_54194D58C450D1254385CF184F4A99C8D.tmp' to '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_5.uasset'
+[2020.03.24-20.54.38:227][ 18]LogFileManager: Warning: DeleteFile was unable to delete '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_5.uasset', retrying in .5s...
+[2020.03.24-20.54.38:728][ 18]LogFileManager: Error: Error deleting file '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_5.uasset'.
+[2020.03.24-20.54.38:728][ 18]LogSavePackage: Error: Error saving '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_5.uasset'
+[2020.03.24-20.54.50:304][ 18]LogSlate: Window 'Mensaje' being destroyed
+[2020.03.24-20.54.50:543][ 18]EditorErrors: New page: Guardar salida
+[2020.03.24-20.54.50:543][ 18]EditorErrors: Warning: Error al guardar '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_5.uasset'
+[2020.03.24-20.54.52:503][128]LogSlate: Window 'Registro del mensaje' being destroyed
+[2020.03.24-20.54.52:556][128]LogSlate: Window 'Registro del mensaje' being destroyed
+[2020.03.24-20.54.57:528][402]LogSlate: Window 'Brachychiton_5' being destroyed
+[2020.03.24-20.54.57:587][402]LogSlate: Window 'Brachychiton_5' being destroyed
+[2020.03.24-20.54.57:596][402]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-20.54.57:596][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.24-20.55.06:180][863]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.24-20.55.06:180][863]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/NewLevelSequence.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.55.06:274][863]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/RGBTable16x1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.55.06:276][863]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.55.06:276][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf': Can't find file.
+[2020.03.24-20.55.06:277][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf': Can't find file.
+[2020.03.24-20.55.06:277][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf-mask': Can't find file.
+[2020.03.24-20.55.06:277][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf-mask': Can't find file.
+[2020.03.24-20.55.06:277][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_DISP': Can't find file.
+[2020.03.24-20.55.06:277][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_DISP': Can't find file.
+[2020.03.24-20.55.06:277][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_NRM': Can't find file.
+[2020.03.24-20.55.06:277][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_NRM': Can't find file.
+[2020.03.24-20.55.06:277][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_SPEC': Can't find file.
+[2020.03.24-20.55.06:277][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_SPEC': Can't find file.
+[2020.03.24-20.55.06:277][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf-mask': Can't find file.
+[2020.03.24-20.55.06:277][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf-mask': Can't find file.
+[2020.03.24-20.55.06:277][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf': Can't find file.
+[2020.03.24-20.55.06:278][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf': Can't find file.
+[2020.03.24-20.55.06:278][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_DISP': Can't find file.
+[2020.03.24-20.55.06:278][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_DISP': Can't find file.
+[2020.03.24-20.55.06:278][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_NRM': Can't find file.
+[2020.03.24-20.55.06:278][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_NRM': Can't find file.
+[2020.03.24-20.55.06:278][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_SPEC': Can't find file.
+[2020.03.24-20.55.06:278][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_SPEC': Can't find file.
+[2020.03.24-20.55.06:279][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf': Can't find file.
+[2020.03.24-20.55.06:279][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf': Can't find file.
+[2020.03.24-20.55.06:279][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf-mask': Can't find file.
+[2020.03.24-20.55.06:279][863]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf-mask.Brachychiton_acerifolius_leaf-mask Referenciado por MaterialExpressionTextureSampleParameter2D_1
+[2020.03.24-20.55.06:279][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf-mask': Can't find file.
+[2020.03.24-20.55.06:279][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_NRM': Can't find file.
+[2020.03.24-20.55.06:279][863]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_NRM.Brachychiton_acerifolius_leaf_NRM Referenciado por MaterialExpressionTextureSampleParameter2D_2
+[2020.03.24-20.55.06:280][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_NRM': Can't find file.
+[2020.03.24-20.55.06:280][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_SPEC': Can't find file.
+[2020.03.24-20.55.06:280][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_SPEC': Can't find file.
+[2020.03.24-20.55.06:280][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_DISP': Can't find file.
+[2020.03.24-20.55.06:280][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_DISP': Can't find file.
+[2020.03.24-20.55.06:284][863]LogMaterial: Display: Missing cached shader map for material Brachychiton_1_Fronds_Mat, compiling. 
+[2020.03.24-20.55.06:285][863]LogMaterial: Warning: D:\Epic Games\mis proyectos\Lolis4ever\Content\Threedtag_Trees\Content\Foliage\Brachychiton\Brachychiton_1_Fronds_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.24-20.55.06:285][863]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.03.24-20.55.06:286][863]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.55.06:286][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.55.06:286][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.55.06:286][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.55.06:286][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.55.06:286][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.55.06:287][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.55.06:287][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.55.06:287][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.55.06:287][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.55.06:287][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.55.06:287][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.55.06:287][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.55.06:287][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.55.06:287][863]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat.Brachychiton_1_Branches_Mat Referenciado por Brachychiton_3
+[2020.03.24-20.55.06:287][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.55.06:288][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.55.06:288][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.55.06:288][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.55.06:288][863]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.ficus_1_Fronds_Mat_Inst Referenciado por Brachychiton_3
+[2020.03.24-20.55.06:288][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.55.06:288][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.55.06:288][863]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/M_Leaf_1.M_Leaf_1 Referenciado por Brachychiton_3
+[2020.03.24-20.55.06:288][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.55.06:288][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.55.06:288][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.55.06:288][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.55.06:289][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Branches_Mat': Can't find file.
+[2020.03.24-20.55.06:289][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.55.06:289][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst': Can't find file.
+[2020.03.24-20.55.06:289][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.55.06:289][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.uasset' failed to load '/Game/Foliage/Brachychiton/M_Leaf_1': Can't find file.
+[2020.03.24-20.55.06:335][863]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_acerifolius_leaf-mask.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.55.06:339][863]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_acerifolius_leaf.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.55.06:340][863]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_DISP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.55.06:342][863]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_NRM.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.55.06:343][863]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_SPEC.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.55.06:344][863]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_Tex.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.55.07:463][863]LogTexture: Display: Building textures: Brachychiton_acerifolius_leaf_Tex (AutoDXT, 2048X2048)
+[2020.03.24-20.55.07:463][863]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.55.07:463][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat': Can't find file.
+[2020.03.24-20.55.07:463][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat': Can't find file.
+[2020.03.24-20.55.07:463][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf': Can't find file.
+[2020.03.24-20.55.07:463][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf': Can't find file.
+[2020.03.24-20.55.07:463][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf-mask': Can't find file.
+[2020.03.24-20.55.07:463][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf-mask': Can't find file.
+[2020.03.24-20.55.07:464][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_DISP': Can't find file.
+[2020.03.24-20.55.07:464][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_DISP': Can't find file.
+[2020.03.24-20.55.07:464][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_NRM': Can't find file.
+[2020.03.24-20.55.07:464][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_NRM': Can't find file.
+[2020.03.24-20.55.07:464][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_SPEC': Can't find file.
+[2020.03.24-20.55.07:464][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_SPEC': Can't find file.
+[2020.03.24-20.55.07:464][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat': Can't find file.
+[2020.03.24-20.55.07:464][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat': Can't find file.
+[2020.03.24-20.55.07:464][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/flatnormals': Can't find file.
+[2020.03.24-20.55.07:464][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/flatnormals': Can't find file.
+[2020.03.24-20.55.07:464][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf-mask': Can't find file.
+[2020.03.24-20.55.07:464][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf-mask': Can't find file.
+[2020.03.24-20.55.07:464][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf': Can't find file.
+[2020.03.24-20.55.07:465][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf': Can't find file.
+[2020.03.24-20.55.07:465][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_DISP': Can't find file.
+[2020.03.24-20.55.07:465][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_DISP': Can't find file.
+[2020.03.24-20.55.07:465][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_NRM': Can't find file.
+[2020.03.24-20.55.07:465][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_NRM': Can't find file.
+[2020.03.24-20.55.07:465][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_SPEC': Can't find file.
+[2020.03.24-20.55.07:465][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_SPEC': Can't find file.
+[2020.03.24-20.55.07:465][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/flatnormals': Can't find file.
+[2020.03.24-20.55.07:465][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/flatnormals': Can't find file.
+[2020.03.24-20.55.07:465][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat': Can't find file.
+[2020.03.24-20.55.07:465][863]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/ficus_1_Fronds_Mat.ficus_1_Fronds_Mat Referenciado por ficus_1_Fronds_Mat_Inst
+[2020.03.24-20.55.07:465][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/ficus_1_Fronds_Mat': Can't find file.
+[2020.03.24-20.55.07:466][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf': Can't find file.
+[2020.03.24-20.55.07:466][863]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf.Brachychiton_acerifolius_leaf Referenciado por ficus_1_Fronds_Mat_Inst
+[2020.03.24-20.55.07:466][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf': Can't find file.
+[2020.03.24-20.55.07:466][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf-mask': Can't find file.
+[2020.03.24-20.55.07:466][863]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf-mask.Brachychiton_acerifolius_leaf-mask Referenciado por ficus_1_Fronds_Mat_Inst
+[2020.03.24-20.55.07:466][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf-mask': Can't find file.
+[2020.03.24-20.55.07:466][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/flatnormals': Can't find file.
+[2020.03.24-20.55.07:466][863]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/flatnormals.flatnormals Referenciado por ficus_1_Fronds_Mat_Inst
+[2020.03.24-20.55.07:466][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/flatnormals': Can't find file.
+[2020.03.24-20.55.07:466][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_NRM': Can't find file.
+[2020.03.24-20.55.07:466][863]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_NRM.Brachychiton_acerifolius_leaf_NRM Referenciado por ficus_1_Fronds_Mat_Inst
+[2020.03.24-20.55.07:467][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_NRM': Can't find file.
+[2020.03.24-20.55.07:467][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_DISP': Can't find file.
+[2020.03.24-20.55.07:467][863]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_DISP.Brachychiton_acerifolius_leaf_DISP Referenciado por ficus_1_Fronds_Mat_Inst
+[2020.03.24-20.55.07:467][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_DISP': Can't find file.
+[2020.03.24-20.55.07:467][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_SPEC': Can't find file.
+[2020.03.24-20.55.07:467][863]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_SPEC.Brachychiton_acerifolius_leaf_SPEC Referenciado por ficus_1_Fronds_Mat_Inst
+[2020.03.24-20.55.07:467][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/ficus_1_Fronds_Mat_Inst.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_SPEC': Can't find file.
+[2020.03.24-20.55.07:468][863]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/flatnormals.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.55.07:468][863]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/leaf.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.55.07:476][863]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/leaf_2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.55.07:522][863]LogTexture: Display: Building textures: leaf_2 (BGRA8, 1024X934)
+[2020.03.24-20.55.07:522][863]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/leaf_2_mask.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.55.07:550][863]LogTexture: Display: Building textures: leaf_2_mask (BGRA8, 1024X934)
+[2020.03.24-20.55.07:550][863]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/leaf_2_Normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.55.07:597][863]LogTexture: Display: Building textures: leaf_2_Normal (BGRA8, 1024X934)
+[2020.03.24-20.55.07:597][863]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/leaf_3.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.55.07:629][863]LogTexture: Display: Building textures: leaf_3 (BGRA8, 1024X934)
+[2020.03.24-20.55.07:629][863]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/leaf_3_mask.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.55.07:654][863]LogTexture: Display: Building textures: leaf_3_mask (BGRA8, 1024X934)
+[2020.03.24-20.55.07:654][863]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/leaf_3_Normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.55.07:729][863]LogTexture: Display: Building textures: leaf_3_Normal (BGRA8, 1024X934)
+[2020.03.24-20.55.07:729][863]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/leaf_mask.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.55.07:735][863]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/leaf_Normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.55.07:740][863]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/leaf_Tex.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.55.07:797][863]LogTexture: Display: Building textures: leaf_Tex (BGRA8, 1024X934)
+[2020.03.24-20.55.07:797][863]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.55.07:797][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_2.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat': Can't find file.
+[2020.03.24-20.55.07:797][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_2.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat': Can't find file.
+[2020.03.24-20.55.07:797][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_2.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat': Can't find file.
+[2020.03.24-20.55.07:797][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_2.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat': Can't find file.
+[2020.03.24-20.55.07:798][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_2.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_2': Can't find file.
+[2020.03.24-20.55.07:798][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_2.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_2': Can't find file.
+[2020.03.24-20.55.07:798][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_2.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_2_mask': Can't find file.
+[2020.03.24-20.55.07:798][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_2.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_2_mask': Can't find file.
+[2020.03.24-20.55.07:798][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_2.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_2_Normal': Can't find file.
+[2020.03.24-20.55.07:798][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_2.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_2_Normal': Can't find file.
+[2020.03.24-20.55.07:798][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_2.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_2': Can't find file.
+[2020.03.24-20.55.07:798][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_2.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_2': Can't find file.
+[2020.03.24-20.55.07:798][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_2.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_2_mask': Can't find file.
+[2020.03.24-20.55.07:798][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_2.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_2_mask': Can't find file.
+[2020.03.24-20.55.07:798][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_2.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_2_Normal': Can't find file.
+[2020.03.24-20.55.07:799][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_2.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_2_Normal': Can't find file.
+[2020.03.24-20.55.07:799][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_2.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat': Can't find file.
+[2020.03.24-20.55.07:799][863]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.Brachychiton_1_Fronds_Mat Referenciado por M_Leaf_2
+[2020.03.24-20.55.07:799][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_2.uasset' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat': Can't find file.
+[2020.03.24-20.55.07:799][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_2.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_2': Can't find file.
+[2020.03.24-20.55.07:799][863]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/leaf_2.leaf_2 Referenciado por M_Leaf_2
+[2020.03.24-20.55.07:799][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_2.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_2': Can't find file.
+[2020.03.24-20.55.07:799][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_2.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_2_mask': Can't find file.
+[2020.03.24-20.55.07:799][863]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/leaf_2_mask.leaf_2_mask Referenciado por M_Leaf_2
+[2020.03.24-20.55.07:799][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_2.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_2_mask': Can't find file.
+[2020.03.24-20.55.07:800][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_2.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_2_Normal': Can't find file.
+[2020.03.24-20.55.07:800][863]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/leaf_2_Normal.leaf_2_Normal Referenciado por M_Leaf_2
+[2020.03.24-20.55.07:800][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_2.uasset' failed to load '/Game/Foliage/Brachychiton/leaf_2_Normal': Can't find file.
+[2020.03.24-20.55.07:800][863]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/TexturesCom_BarkDecidious0155_1_seamless_S_NRM_Tex.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.55.07:801][863]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Foliage/Brachychiton/TexturesCom_BarkDecidious0155_1_seamless_S_Tex.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.55.07:802][863]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.55.08:018][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1': Can't find file.
+[2020.03.24-20.55.08:019][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1': Can't find file.
+[2020.03.24-20.55.08:019][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_2': Can't find file.
+[2020.03.24-20.55.08:019][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_2': Can't find file.
+[2020.03.24-20.55.08:019][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_3': Can't find file.
+[2020.03.24-20.55.08:019][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_3': Can't find file.
+[2020.03.24-20.55.08:019][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_4': Can't find file.
+[2020.03.24-20.55.08:019][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_4': Can't find file.
+[2020.03.24-20.55.08:019][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_5': Can't find file.
+[2020.03.24-20.55.08:019][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_5': Can't find file.
+[2020.03.24-20.55.08:019][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/RGBTable16x1': Can't find file.
+[2020.03.24-20.55.08:020][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/RGBTable16x1': Can't find file.
+[2020.03.24-20.55.08:020][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1': Can't find file.
+[2020.03.24-20.55.08:020][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1': Can't find file.
+[2020.03.24-20.55.08:020][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_2': Can't find file.
+[2020.03.24-20.55.08:021][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_2': Can't find file.
+[2020.03.24-20.55.08:021][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_3': Can't find file.
+[2020.03.24-20.55.08:021][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_3': Can't find file.
+[2020.03.24-20.55.08:021][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_4': Can't find file.
+[2020.03.24-20.55.08:021][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_4': Can't find file.
+[2020.03.24-20.55.08:021][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_5': Can't find file.
+[2020.03.24-20.55.08:021][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_5': Can't find file.
+[2020.03.24-20.55.08:021][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/RGBTable16x1': Can't find file.
+[2020.03.24-20.55.08:021][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/RGBTable16x1': Can't find file.
+[2020.03.24-20.55.08:023][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/RGBTable16x1': Can't find file.
+[2020.03.24-20.55.08:024][863]LoadErrors: Error al cargar /Game/RGBTable16x1.RGBTable16x1 Referenciado por PostProcessVolume_2
+[2020.03.24-20.55.08:024][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/RGBTable16x1': Can't find file.
+[2020.03.24-20.55.08:027][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1': Can't find file.
+[2020.03.24-20.55.08:027][863]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/Brachychiton_1.Brachychiton_1 Referenciado por Brachychiton_13
+[2020.03.24-20.55.08:027][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_1': Can't find file.
+[2020.03.24-20.55.08:028][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_3': Can't find file.
+[2020.03.24-20.55.08:028][863]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/Brachychiton_3.Brachychiton_3 Referenciado por Brachychiton_17
+[2020.03.24-20.55.08:028][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_3': Can't find file.
+[2020.03.24-20.55.08:028][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_2': Can't find file.
+[2020.03.24-20.55.08:028][863]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/Brachychiton_2.Brachychiton_2 Referenciado por Brachychiton_21
+[2020.03.24-20.55.08:028][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_2': Can't find file.
+[2020.03.24-20.55.08:028][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_4': Can't find file.
+[2020.03.24-20.55.08:028][863]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/Brachychiton_4.Brachychiton_4 Referenciado por Brachychiton_3
+[2020.03.24-20.55.08:028][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_4': Can't find file.
+[2020.03.24-20.55.08:028][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_5': Can't find file.
+[2020.03.24-20.55.08:028][863]LoadErrors: Error al cargar /Game/Foliage/Brachychiton/Brachychiton_5.Brachychiton_5 Referenciado por Brachychiton_6
+[2020.03.24-20.55.08:028][863]LogLinker: Warning: While loading '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/Maps/demo_map.umap' failed to load '/Game/Foliage/Brachychiton/Brachychiton_5': Can't find file.
+[2020.03.24-20.55.08:042][863]LogMaterial: Display: Missing cached shader map for material M_LightStage_Skybox_Master, compiling. 
+[2020.03.24-20.55.08:053][863]LogMaterial: Display: Missing cached shader map for material M_LightStage_Arrows, compiling. 
+[2020.03.24-20.55.08:079][863]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.03.24-20.55.08:079][863]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.03.24-20.55.08:079][863]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.03.24-20.55.08:079][863]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.03.24-20.55.08:079][863]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2020.03.24-20.55.08:079][863]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2020.03.24-20.55.08:079][863]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.03.24-20.55.08:079][863]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.03.24-20.55.08:079][863]LogMaterial: Display: Missing cached shader map for material M_LightStage_Skybox_Master, compiling. 
+[2020.03.24-20.55.08:169][863]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.03.24-20.55.08:296][863]LogAIModule: Creating AISystem for world demo_map
+[2020.03.24-20.55.08:300][863]LogLinker: Warning: Asset '../../../../mis proyectos/Lolis4ever/Content/Threedtag_Trees/Content/StarterContent/Blueprints/BP_LightStudio.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.03.24-20.55.08:378][863]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 72
+[2020.03.24-20.55.08:379][863]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 62
+[2020.03.24-20.55.08:379][863]LogMaterial: Display: Missing cached shader map for material M_LightStage_Arrows, compiling. 
+[2020.03.24-20.55.08:397][863]LogMaterial: Display: Missing cached shader map for material M_LightStage_Skybox_Master, compiling. 
+[2020.03.24-20.55.08:417][863]LogMaterial: Display: Missing cached shader map for material M_LightStage_Skybox_Master, compiling. 
+[2020.03.24-20.55.08:443][863]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update SunlightColorLUT
+[2020.03.24-20.55.08:586][863]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 66
+[2020.03.24-20.55.08:586][863]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 57
+[2020.03.24-20.55.08:586][863]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 49
+[2020.03.24-20.55.08:586][863]LogObjectTools: Deleting 1 worlds: /Game/Threedtag_Trees/Content/Maps/demo_map.demo_map
+[2020.03.24-20.55.08:586][863]LogObjectTools: Currently 3 active worlds: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap, /Engine/Transient.World_0, /Engine/Transient.World_2
+[2020.03.24-20.55.08:619][863]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 42
+[2020.03.24-20.55.08:648][863]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.03.24-20.55.08:678][863]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 36
+[2020.03.24-20.55.08:702][863]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 31
+[2020.03.24-20.55.10:596][863]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 27
+[2020.03.24-20.55.10:897][863]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2020.03.24-20.55.11:179][863]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2020.03.24-20.55.11:479][863]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2020.03.24-20.55.11:479][863]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2020.03.24-20.55.12:058][863]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2020.03.24-20.55.12:058][863]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2020.03.24-20.55.12:058][863]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2020.03.24-20.55.12:340][863]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2020.03.24-20.55.12:340][863]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.03.24-20.55.12:340][863]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2020.03.24-20.55.12:598][863]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2020.03.24-20.55.12:598][863]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.03.24-20.55.12:598][863]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2020.03.24-20.56.11:973][863]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.24-20.56.18:153][863]LogUObjectGlobals: Force Deleting 38 Package(s):
+	Asset Name: /Game/Threedtag_Trees/Content/Foliage/Brachychiton/M_Leaf_1.M_Leaf_1
+	Asset Name: /Game/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_5.Brachychiton_5
+	Asset Name: /Game/Threedtag_Trees/Content/NewLevelSequence.NewLevelSequence
+	Asset Name: /Game/Threedtag_Trees/Content/RGBTable16x1.RGBTable16x1
+	Asset Name: /Game/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_1_Fronds_Mat.Brachychiton_1_Fronds_Mat
+	Asset Name: /Game/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_3.Brachychiton_3
+	Asset Name: /Game/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_acerifolius_leaf-mask.Brachychiton_acerifolius_leaf-mask
+	Asset Name: /Game/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_acerifolius_leaf.Brachychiton_acerifolius_leaf
+	Asset Name: /Game/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_DISP.Brachychiton_acerifolius_leaf_DISP
+	Asset Name: /Game/Threedtag_Trees/Content/Foliage/Brachychiton/Brachychiton_acerifolius_leaf_NRM.Brachychiton_acerifolius_leaf_NRM
+[2020.03.24-20.56.43:864][863]LogWorld: UWorld::CleanupWorld for demo_map, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-20.56.43:865][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
